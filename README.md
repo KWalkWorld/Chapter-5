@@ -1,3 +1,4 @@
+完成了两个todo，运行得到的apk文件为register.apk, 代码如下所示：
 # Chapter-5
 
  // todo 添加api  
